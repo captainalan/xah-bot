@@ -1,0 +1,15 @@
+{
+  "name": "xah-bot",
+  "version": "1.0.0",
+  "description": "Discord Bot for Xah Lee server",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alan W",
+  "license": "MIT",
+  "dependencies": {
+    "discord.io": "^2.5.3",
+    "winston": "^3.2.1"
+  }
+}

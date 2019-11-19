@@ -1,0 +1,8 @@
+# ...you know the drill...
+node_modules/
+
+# Don't upload keys to GitHub!
+auth.json
+
+# Editor things
+*~
